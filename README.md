@@ -1,4 +1,6 @@
 # Payload_generator
+Video Tutorial : https://www.youtube.com/watch?v=FCLXtU851Rk&list=PLx-9Ww4QWT6A0c7QwalbD2g3HY4XlWsql&index=2
+
 - PASOS
 
 1.- activar el modo desarrollador del navegador
